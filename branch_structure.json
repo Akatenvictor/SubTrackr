@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/gdpr-consent-management-ui",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/gdpr-consent-management-ui": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/gdpr-consent-management-ui",
+    "origin"
+  ]
+}
